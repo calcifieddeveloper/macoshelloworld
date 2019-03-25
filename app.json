@@ -1,0 +1,23 @@
+{
+  "id": "29062a72-6bb9-475c-a888-636120499ab6",
+  "name": "Hello from macOS",
+  "publisher": "The Calcified Developer",
+  "brief": "Hello from macOS",
+  "description": "Hello from macOS",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3"
+}
